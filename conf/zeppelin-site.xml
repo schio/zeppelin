@@ -33,7 +33,7 @@
 
 <property>
   <name>zeppelin.server.port</name>
-  <value>80</value>
+  <value>7575</value>
   <description>Server port.</description>
 </property>
 
